@@ -29,7 +29,9 @@ Social recipe-sharing network built fullstack from scratch.
 🔗 [github.com/MariaMunozDeveloper](https://github.com/MariaMunozDeveloper)
 
 ---
+🌐 [mariamunozdeveloper.github.io/portfolio](https://mariamunozdeveloper.github.io/portfolio/)
 
+---
 **Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariaMunozDeveloper&show_icons=true&theme=graywhite&hide_border=true&count_private=true&title_color=b5466e&icon_color=b5466e)
@@ -38,4 +40,4 @@ Social recipe-sharing network built fullstack from scratch.
 
 ---
 
- Valencia, Spain ·  Open to frontend, backend or fullstack roles · [LinkedIn] https://www.linkedin.com/in/maria-munoz-ferrer/
+ Valencia, Spain ·  Open to frontend, backend or fullstack roles · [LinkedIn](https://www.linkedin.com/in/maria-munoz-ferrer/)
