@@ -12,7 +12,7 @@ Junior developer with experience in fintech environments. I build web apps end-t
 
 ---
 
-**Featured project — 🧤 Cookee**
+**Featured project — <img src="./miton_one_color.svg" width="20" height="20" alt="Cookee icon"> Cookee**
 
 Social recipe-sharing network built fullstack from scratch.
 
