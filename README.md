@@ -1,16 +1,35 @@
-## Hi there 👋
+### Hi, I'm Mireia 👋
 
-<!--
-**MariaMunozDeveloper/MariaMunozDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fullstack Developer · Angular & Node.js · Open to work**
 
-Here are some ideas to get you started:
+Junior developer with experience in fintech environments. I build web apps end-to-end — from Angular UIs to RESTful APIs — and I'm always learning something new.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Stack**
+
+`Angular` `TypeScript` `Node.js` `Express` `MongoDB` `Spring Boot` `Kotlin` `Git`
+
+---
+
+**Featured project — 🧤 Cookee**
+
+Social recipe-sharing network built fullstack from scratch.
+
+- Angular + Node.js + Express + MongoDB Atlas
+- JWT authentication · Cloudinary for image upload
+- Deployed on Vercel (frontend) & Railway (backend)
+
+🔗 [github.com/MariaMunozDeveloper](https://github.com/MariaMunozDeveloper)
+
+---
+
+**Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariaMunozDeveloper&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaMunozDeveloper&layout=compact&theme=default&hide_border=true)
+
+---
+
+ Valencia, Spain ·  Open to frontend, backend or fullstack roles · [LinkedIn] https://www.linkedin.com/in/maria-munoz-ferrer/
